@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,php,nodejs,tailwind,git,vscode,unity,c#,blender" /><br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,php,nodejs,tailwind,npm,git,vscode,unity,c#,blender,docker,zeromq,redis,mongodb,mysql,prizma" /><br/>
 
 </div>
 ## 📊 GitHub Stats
