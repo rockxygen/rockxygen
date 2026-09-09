@@ -1,6 +1,6 @@
 ## Hello there!
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lxcardoza993&label=visitors&color=e754a6&style=for-the-badge" alt="visitors" />
+  <img src="https://komarev.com/ghpvc/?username=rockxygen&label=visitors&color=e754a6&style=for-the-badge" alt="visitors" />
 </div>
 <hr>
 ## 🛠️ Tech Stack
