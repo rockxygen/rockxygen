@@ -1,8 +1,9 @@
 ## Hello there!
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=rockxygen&label=visitors&color=677EEB&style=for-the-badge" alt="visitors" />
 </div>
-<hr>
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -10,6 +11,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,ts,vue,nuxtjs,react,nextjs,php,regex,nodejs,tailwind,npm,git,vscode,visualstudio,unity,cs,dotnet,blender,docker,nginx,ubuntu,rabbitmq,redis,mongodb,mysql,prisma" /><br/>
 
 </div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
