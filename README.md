@@ -1,4 +1,7 @@
 ## Hello there!
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rockxygen&label=visitors&color=dfdfdf&style=for-the-badge" alt="visitors" />
+</div>
 <hr>
 ## 🛠️ Tech Stack
 
